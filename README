@@ -1,1 +1,9 @@
-Classe para a formataÃÃo de CNPJ e numeros feito utilizando para testar e aprender a usar o jasmine
+Classe para a formataÃ§Ã£o de CNPJ e numeros feito utilizando para testar e aprender a usar o jasmine
+
+PrÃ³ximos passos:
+-> Validar CNPJ
+-> Validar e Formatar CPF 
+
+O arquivo resultande esta em public/javascripts/format.br.js
+
+Curti o Jasmine :P
